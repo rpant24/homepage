@@ -12,7 +12,7 @@
 .welcomeHeader {
     text-align: center;
     position: relative;
-    top: 18%;
+    top: 30%;
 }
 
 .welcomeTime {
@@ -27,7 +27,7 @@
 
 .linksParentContainer {
     position: relative;
-    top: 30%;
+    top: 35%;
     margin: auto;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
