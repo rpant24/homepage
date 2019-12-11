@@ -82,7 +82,7 @@ class App extends Component {
             <ul className="links">
               <li><a href="https://messages.android.com/" target="_blank" rel="noopener noreferrer">Messenger</a></li>
               <li><a href="https://duo.google.com/" target="_blank" rel="noopener noreferrer">Duo</a></li>
-              <li><a href="https://forensx.slack.com/" target="_blank" rel="noopener noreferrer">ForensX Slack</a></li>
+              <li><a href="slack://" target="_blank" rel="noopener noreferrer">ForensX Slack</a></li>
             </ul>
           </div>
           <div className="socialMedia linkContainer">
