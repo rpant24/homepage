@@ -35,7 +35,7 @@ class App extends Component {
   render() {
     let date = this.state.date;
     return (
-      <div className="Home" >
+      <div className="App" >
         <div className="welcomeHeader">
           <div className="welcomeTime">Good {this.state.dayPortion}, Aniket.</div>
           <div className="dateLabel">{date.toLocaleTimeString(navigator.language, {
