@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/homepage/static/css/main.baba0db1.chunk.css",
+    "main.css": "/homepage/static/css/main.407f9ede.chunk.css",
     "main.js": "/homepage/static/js/main.15b6f5ec.chunk.js",
     "main.js.map": "/homepage/static/js/main.15b6f5ec.chunk.js.map",
     "runtime-main.js": "/homepage/static/js/runtime-main.c048e2d4.js",
@@ -8,16 +8,15 @@
     "static/js/2.7387fe73.chunk.js": "/homepage/static/js/2.7387fe73.chunk.js",
     "static/js/2.7387fe73.chunk.js.map": "/homepage/static/js/2.7387fe73.chunk.js.map",
     "index.html": "/homepage/index.html",
-    "precache-manifest.f6cb23a5e75a7694bc63fcf8dde96ea4.js": "/homepage/precache-manifest.f6cb23a5e75a7694bc63fcf8dde96ea4.js",
+    "precache-manifest.9e6d3e6cd4d76259936fccaaa39d80b3.js": "/homepage/precache-manifest.9e6d3e6cd4d76259936fccaaa39d80b3.js",
     "service-worker.js": "/homepage/service-worker.js",
-    "static/css/main.baba0db1.chunk.css.map": "/homepage/static/css/main.baba0db1.chunk.css.map",
-    "static/js/2.7387fe73.chunk.js.LICENSE": "/homepage/static/js/2.7387fe73.chunk.js.LICENSE",
-    "static/media/App.css": "/homepage/static/media/trimmed_orbit_Trim_Slomo.2cf1c715.gif"
+    "static/css/main.407f9ede.chunk.css.map": "/homepage/static/css/main.407f9ede.chunk.css.map",
+    "static/js/2.7387fe73.chunk.js.LICENSE": "/homepage/static/js/2.7387fe73.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.c048e2d4.js",
     "static/js/2.7387fe73.chunk.js",
-    "static/css/main.baba0db1.chunk.css",
+    "static/css/main.407f9ede.chunk.css",
     "static/js/main.15b6f5ec.chunk.js"
   ]
 }
