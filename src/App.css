@@ -5,8 +5,7 @@
     padding: 0;
     margin: 0;
     font-family: 'Open Sans', sans-serif;
-    background:url('assets/trimmed_orbit_Trim_Slomo.gif') 100% 100% fixed;
-    color: white;
+    color: black;
 }
 
 .welcomeHeader {
@@ -119,7 +118,7 @@ hr {
 }
 
 a {
-    color: white;
+    color: black;
 }
 
 a:link {
