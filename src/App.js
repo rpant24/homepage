@@ -1,5 +1,19 @@
 import React, {Component} from 'react';
 import './App.css';
+import Particles from "./Particles";
+
+const styles = {
+  root: {
+    fontFamily: "sans-serif",
+    textAlign: "center",
+    background: "#222",
+    display: "flex",
+    padding: "0",
+    margin: "0",
+    zIndex: "0",
+    position: "absolute"
+  }
+};
 
 class App extends Component {
 
@@ -36,6 +50,9 @@ class App extends Component {
     let date = this.state.date;
     return (
       <div className="App" >
+        <div style={styles.root}>
+          <Particles />
+        </div>
         <div className="welcomeHeader">
           <div className="welcomeTime">Good {this.state.dayPortion}, Aniket.</div>
           <div className="dateLabel">{date.toLocaleTimeString(navigator.language, {
@@ -83,6 +100,7 @@ class App extends Component {
               <li><a href="https://messages.android.com/" target="_blank" rel="noopener noreferrer">Messenger</a></li>
               <li><a href="https://duo.google.com/" target="_blank" rel="noopener noreferrer">Duo</a></li>
               <li><a href="slack://" target="_blank" rel="noopener noreferrer">ForensX Slack</a></li>
+              <li><a href="slack://" target="_blank" rel="noopener noreferrer">Gmail</a></li>
             </ul>
           </div>
           <div className="socialMedia linkContainer">
