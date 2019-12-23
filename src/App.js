@@ -8,10 +8,10 @@ const styles = {
     textAlign: "center",
     background: "#222",
     display: "flex",
-    padding: "0",
-    margin: "0",
     zIndex: "0",
-    position: "absolute"
+    position: "absolute",
+    width: "100vw",
+    height: "100vh"
   }
 };
 
