@@ -54,7 +54,7 @@ class App extends Component {
           <Particles />
         </div>
         <div className="welcomeHeader">
-          <div className="welcomeTime">Good {this.state.dayPortion}, Aniket.</div>
+          <div className="welcomeTime">Good {this.state.dayPortion}, Radhika.</div>
           <div className="dateLabel">{date.toLocaleTimeString(navigator.language, {
             hour: '2-digit',
             minute: '2-digit'
